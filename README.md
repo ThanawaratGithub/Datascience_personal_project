@@ -12,3 +12,5 @@ This is my portfolio for data science intern
 
     ข้อมูลที่ใช้เป็น ข้อมูล transaction data ของการสั่งอาหารจากแอพพลิเคชั่นส่งอาหาร เพื่อpredict ว่าลูกค้าจะใช้งานแอพสั่งอาหารในวันที่คาดหวังหรือไม่
 
+Developer portfolio
+https://github.com/ThanawaratGithub/websiteport.git
