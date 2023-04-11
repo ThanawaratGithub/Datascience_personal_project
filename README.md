@@ -1,5 +1,5 @@
 # Myportfolio
-**This is my portfolio for internship purpose**
+**This is my portfolio for internship **
 # Data Science portfolio
 โดยใน github นี้ ประกอบด้วย 3 project 
 * **1.credit risk** ประกอบด้วย 1 notebook file
