@@ -1,7 +1,3 @@
-# Myportfolio
-**This is my portfolio for internship. It consists of 2 things: 
-    1.data science portfolio 
-    2.developer portfolio**
 # Data Science portfolio
 โดยใน github นี้ ประกอบด้วย 3 project 
 * **1.credit risk** ประกอบด้วย 1 notebook file
