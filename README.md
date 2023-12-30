@@ -6,6 +6,4 @@
 * **2.bank marketing campaign** ประกอบด้วย 1 notebook file + 1 presentation file
     
     โดยนำข้อมูล marketing campaign ของธนาคารแห่งหนึ่งจาก kaggle มาวิเคราะห์จุดประสงค์เพื่อหา insight เพื่อทำcampaign ได้ตรงกลุ่มเป้าหมายมากขึ้น และได้ทำ presentation slide เพื่อแสดงความคิดเห็นถึงผลลัพธ์จากการวิเคราะห์ ชื่อไฟล์ (marketing_campaign_presentation.pdf)
-* **3.purchase prediction** ประกอบด้วย 1 notebook file
 
-    ข้อมูลที่ใช้เป็น ข้อมูล transaction data ของการสั่งอาหารจากแอพพลิเคชั่นส่งอาหาร เพื่อpredict ว่าลูกค้าจะใช้งานแอพสั่งอาหารในวันที่คาดหวังหรือไม่
